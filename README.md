@@ -31,7 +31,7 @@ Busco conectar os fundamentos científicos da computação com aplicações prá
 
 Seja para trocar experiências sobre código, discutir soluções de engenharia ou falar sobre futebol (especialmente se o assunto for o **Atlético Mineiro** 🐓), fique à vontade para se conectar comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arley-fialho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arley-fialho/)]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fialhoarley@gmail.com)
 
 ---
